@@ -17,8 +17,16 @@ Hello there! 👋 I'm Meenu Anil, a passionate data enthusiast and Power BI afic
 - **Power BI Projects:** Explore my repositories to find a collection of Power BI projects showcasing my skills in data visualisation, analysis, and storytelling.
 - **DAX Formulas:** Dig into my DAX repositories to discover how I tackle complex calculations and create efficient formulas to unlock the true potential of Power BI.
 
+
+
 ## Let's Connect
 
 I'm actively seeking new opportunities for collaboration, discussions, and engaging in insightful data projects. Connect with me on LinkedIn https://www.linkedin.com/in/meenuanil/.
 
 Let's turn data into insights together! 🚀
+
+
+
+# Super Sales Insights - Dashboard
+
+This Power BI project provides comprehensive insights into the sales data of a superstore. The analysis covers various aspects such as sales trends, product performance, customer segmentation, and geographical distribution. The interactive dashboards and visualizations make it easy to understand and derive actionable insights from the data.
