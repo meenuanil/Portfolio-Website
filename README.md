@@ -41,11 +41,8 @@ The data preparation phase involved handling missing values, eliminating duplica
 ![Screenshot 2024-02-28 172052](https://github.com/meenuanil/Portfolio-Website/assets/47709878/edecddb0-4c0b-4873-bd91-85de6f106863)
 
 Analysis and Visualization:
-
-
-_**What were the total sales for the company?**
-_**Which market generated the most sales on average?**
-_**What were the profits by segment? Which segment has the most profit?**
-
+•	What were the total sales for the company?
+•	Which market generated the most sales on average?
+•	What were the profits by segment? Which segment has the most profit?
 
 
