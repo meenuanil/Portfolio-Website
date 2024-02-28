@@ -30,3 +30,5 @@ Let's turn data into insights together! 🚀
 # Super Sales Insights - Dashboard
 
 This Power BI project provides comprehensive insights into the sales data of a superstore. The analysis covers various aspects such as sales trends, product performance, customer segmentation, and geographical distribution. The interactive dashboards and visualizations make it easy to understand and derive actionable insights from the data.
+
+![Screenshot 2024-02-28 172052](https://github.com/meenuanil/Portfolio-Website/assets/47709878/edecddb0-4c0b-4873-bd91-85de6f106863)
