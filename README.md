@@ -40,11 +40,36 @@ The data preparation phase involved handling missing values, eliminating duplica
 
 ![Screenshot 2024-02-28 172052](https://github.com/meenuanil/Portfolio-Website/assets/47709878/edecddb0-4c0b-4873-bd91-85de6f106863)
 
+
+Methodology
+•	Data Collection Getting data from Kaggle.
+•	Data Cleaning and Preparation Removing irrelevant and restructuring the dataset for easy analysis.
+•	Exploratory Data Analysis Exploring and analyzing the cleaned data.
+•	Visualization and Reporting visually presenting data in the form of charts and graphs.
+•	Insights presenting observations from the analysis.
+
 Analysis and Visualization:
-
-
 •	What were the total sales for the company?
 •	Which market generated the most sales on average?
 •	What were the profits by segment? Which segment has the most profit?
+
+Tools:
+Kaggle, Power BI(DAX), Microsoft Excel
+
+#project 2
+# TCS stocks markets Insights - Dashboard
+
+This Power BI project delves into the dynamic landscape of TCS stocks, offering a comprehensive analysis and visualization of key market indicators. The project encompasses a diverse range of charts and graphs, including time series charts tracking stock prices over various periods, key performance indicators (KPIs) highlighting crucial financial metrics, and comparative analyses against market benchmarks. Through interactive features and filters, users can explore trends, volatility, and factors influencing TCS stock performance. This project provides investors and stakeholders with actionable insights for informed decision-making in the dynamic world of stock markets. 📊📈
+
+
+Dataset:
+The dataset for this project comprises historical data on TCS stocks, encompassing daily stock prices, trading volumes, financial indicators, and relevant market data. The dataset is collected from reliable financial sources, ensuring accuracy and completeness for meaningful analysis.
+
+Methods:
+Data preparation involves cleaning, transforming, and organizing the dataset. Key tasks include handling missing values, converting data types, and structuring the data for effective analysis. Time-based aggregations and calculations are applied to unveil trends and patterns. DAX (Data Analysis Expressions) formulas are leveraged for complex calculations, ensuring accurate insights.
+
+
+Tools:
+Kaggle, Power BI(DAX), Microsoft Excel
 
 
