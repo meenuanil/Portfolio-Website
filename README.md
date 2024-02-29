@@ -65,7 +65,11 @@ Methods:
 Data preparation involves cleaning, transforming, and organizing the dataset. Key tasks include handling missing values, converting data types, and structuring the data for effective analysis. Time-based aggregations and calculations are applied to unveil trends and patterns. DAX (Data Analysis Expressions) formulas are leveraged for complex calculations, ensuring accurate insights.
 
 
-Tools:
+![Screenshot 2024-02-29 160423](https://github.com/meenuanil/Portfolio-Website/assets/47709878/b0f7fd59-7051-4c2a-a669-22c4664aca26)
+
+
+![Screenshot 2024-02-29 160458](https://github.com/meenuanil/Portfolio-Website/assets/47709878/0d572cd1-5ab3-4349-9540-e2ac653686fa)
+
 Kaggle, Power BI(DAX), Microsoft Excel
 
 
