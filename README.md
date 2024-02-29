@@ -160,7 +160,8 @@ Power Automate: Integrated for automating data collection and refreshing process
 Problem Statement
 The goal of this project is to provide a consolidated view of social media analytics to understand engagement, reach, and audience demographics. The dashboard aims to help users make informed decisions about content strategy and audience targeting.
 
-![Screenshot 2024-02-29 183329](https://github.com/meenuanil/Portfolio-Website/assets/47709878/aebed5d3-f1db-4808-8915-832c8dca8163)
+
+![Screenshot 2024-02-29 190151](https://github.com/meenuanil/Portfolio-Website/assets/47709878/c40db68a-2600-4854-939f-cb35e75fbf39)
 
 Key Performance Indicators (KPIs)
 The following key metrics are tracked on the dashboard:
