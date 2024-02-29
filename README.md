@@ -52,7 +52,7 @@ This Power BI project provides comprehensive insights into the sales data of a s
 Tools:
 Kaggle, Power BI(DAX), Microsoft Excel
 
-#project 2
+## project 2
 # TCS stocks markets Insights - Dashboard
 
 This Power BI project delves into the dynamic landscape of TCS stocks, offering a comprehensive analysis and visualization of key market indicators. The project encompasses a diverse range of charts and graphs, including time series charts tracking stock prices over various periods, key performance indicators (KPIs) highlighting crucial financial metrics, and comparative analyses against market benchmarks. Through interactive features and filters, users can explore trends, volatility, and factors influencing TCS stock performance. This project provides investors and stakeholders with actionable insights for informed decision-making in the dynamic world of stock markets. 📊📈
@@ -91,20 +91,27 @@ Kaggle, Power BI(DAX), Microsoft Excel
   - Utilize Power BI's data modelling capabilities to create relationships and calculated measures for in-depth analysis.
 
 - **Visualization Techniques:**
-  - **Heat Map:**
-    - Deploy a heat map to visualize the intensity of violations across provinces, highlighting areas of higher and lower occurrences.
-
-  - **Shape Map:**
-    - Leverage a shape map to provide a geographic overview, offering insights into the spatial distribution of abuses.
-
-  - **Pie Chart:**
-    - Implement a pie chart to categorize the types of abuses, providing a concise breakdown for easy interpretation.
-
-  - **Line Graph:**
+-  - **Line Graph:**
     - Utilize a line graph to illustrate the trend of civilians killed over time, offering a temporal perspective on the gravity of the situation.
+      ![Screenshot 2024-02-29 171934](https://github.com/meenuanil/Portfolio-Website/assets/47709878/50be8a7e-f68e-41c3-bef6-c115d0890e50)
 
   - **Bar Chart:**
     - Employ bar charts to showcase the magnitude of different types of abuses and violations, aiding in identifying the most prevalent issues.
 
+ ![Screenshot 2024-02-29 171909](https://github.com/meenuanil/Portfolio-Website/assets/47709878/af2818c4-bed1-4fc9-a95b-724a487e9caa)
+
+- **Heat Map:**
+    - Deploy a heat map to visualize the intensity of violations across provinces, highlighting areas of higher and lower occurrences.
+ ![Screenshot 2024-02-29 171836](https://github.com/meenuanil/Portfolio-Website/assets/47709878/d7b923b0-353a-405b-87a6-71b48ccf4c2c)
+
+  - **Shape Map:**
+    - Leverage a shape map to provide a geographic overview, offering insights into the spatial distribution of abuses.
+![Screenshot 2024-02-29 180501](https://github.com/meenuanil/Portfolio-Website/assets/47709878/85024ba7-c280-4d14-a73b-813e331de32e)
+
+  - **Pie Chart:**
+    - Implement a pie chart to categorize the types of abuses, providing a concise breakdown for easy interpretation.
+ ![Screenshot 2024-02-29 180614](https://github.com/meenuanil/Portfolio-Website/assets/47709878/021950b7-2ce8-4c63-a9ea-03b319c09500)
+
+Tools: Power BI (DAX, Power query), Power Automation, Microsoft Execl
 
 
