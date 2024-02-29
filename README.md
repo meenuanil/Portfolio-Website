@@ -26,7 +26,7 @@ I'm actively seeking new opportunities for collaboration, discussions, and engag
 Let's turn data into insights together! 🚀
 
 
-# Projects 1
+# Project 1
 # Super Sales Insights - Dashboard
 
 This Power BI project provides comprehensive insights into the sales data of a superstore. The analysis covers various aspects such as sales trends, product performance, customer segmentation, and geographical distribution. The interactive dashboards and visualizations make it easy to understand and derive actionable insights from the data.
@@ -52,8 +52,8 @@ This Power BI project provides comprehensive insights into the sales data of a s
 Tools:
 Kaggle, Power BI(DAX), Microsoft Excel
 
-## project 2
-# TCS stocks markets Insights - Dashboard
+<h1 style="color:blue"> Project 2 </h1>
+# TCS stocks market Insights - Dashboard
 
 This Power BI project delves into the dynamic landscape of TCS stocks, offering a comprehensive analysis and visualization of key market indicators. The project encompasses a diverse range of charts and graphs, including time series charts tracking stock prices over various periods, key performance indicators (KPIs) highlighting crucial financial metrics, and comparative analyses against market benchmarks. Through interactive features and filters, users can explore trends, volatility, and factors influencing TCS stock performance. This project provides investors and stakeholders with actionable insights for informed decision-making in the dynamic world of stock markets. 📊📈
 
