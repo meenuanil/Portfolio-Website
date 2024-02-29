@@ -72,4 +72,39 @@ Data preparation involves cleaning, transforming, and organizing the dataset. Ke
 
 Kaggle, Power BI(DAX), Microsoft Excel
 
+## Project 3
+## Humanitarian Insights-Dashboard
+**Data Collection:**
+- Source data from the Humanitarian team, encompassing records of violations and abuses across different provinces.
+
+**Problem Statement:**
+- Address the need for a comprehensive visualization tool to understand and analyze humanitarian violations for effective decision-making.
+
+**Methodology:**
+- **Data Preparation and Cleaning:**
+  - Thoroughly clean and structure the dataset to ensure accuracy and consistency.
+  
+- **Exploratory Data Analysis (EDA):**
+  - Dive into the dataset to explore patterns, trends, and relationships among different types of violations.
+
+- **Data Modeling:**
+  - Utilize Power BI's data modelling capabilities to create relationships and calculated measures for in-depth analysis.
+
+- **Visualization Techniques:**
+  - **Heat Map:**
+    - Deploy a heat map to visualize the intensity of violations across provinces, highlighting areas of higher and lower occurrences.
+
+  - **Shape Map:**
+    - Leverage a shape map to provide a geographic overview, offering insights into the spatial distribution of abuses.
+
+  - **Pie Chart:**
+    - Implement a pie chart to categorize the types of abuses, providing a concise breakdown for easy interpretation.
+
+  - **Line Graph:**
+    - Utilize a line graph to illustrate the trend of civilians killed over time, offering a temporal perspective on the gravity of the situation.
+
+  - **Bar Chart:**
+    - Employ bar charts to showcase the magnitude of different types of abuses and violations, aiding in identifying the most prevalent issues.
+
+
 
