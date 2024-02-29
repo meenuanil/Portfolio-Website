@@ -160,6 +160,8 @@ Power Automate: Integrated for automating data collection and refreshing process
 Problem Statement
 The goal of this project is to provide a consolidated view of social media analytics to understand engagement, reach, and audience demographics. The dashboard aims to help users make informed decisions about content strategy and audience targeting.
 
+![Screenshot 2024-02-29 183329](https://github.com/meenuanil/Portfolio-Website/assets/47709878/aebed5d3-f1db-4808-8915-832c8dca8163)
+
 Key Performance Indicators (KPIs)
 The following key metrics are tracked on the dashboard:
 
@@ -168,6 +170,11 @@ Engagement Metrics: Total likes, comments, shares, and engagement rate.
 Reach Metrics: Impressions, reach, and click-through rate (CTR).
 
 Audience Metrics: Demographics (age, gender, location), growth rate, and follower retention.
+
+
+![Screenshot 2![Screenshot 2024-02-29 190202](https://github.com/meenuanil/Portfolio-Website/assets/47709878/327be5d1-5e0d-4090-b4fd-19e727fd8b69)
+024-02-29 190151](https://github.com/meenuanil/Portfolio-Website/assets/47709878/a613c213-c73f-4689-92c7-9e18d93350ff)
+![Screenshot 2024-02-29 183742](https://github.com/meenuanil/Portfolio-Website/assets/47709878/2380fc75-2044-4438-841e-025f17b2451d)
 
 Tables, Filters, Bookmarks
 Tables: Utilize tables to present detailed data on post performance, follower demographics, and more.
