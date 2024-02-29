@@ -74,7 +74,7 @@ Kaggle, Power BI(DAX), Microsoft Excel
 
 ## Project 3 
 # Humanitarian Insights-Dashboard
-_**Data Collection:**
+**Data Collection:**
 - Source data from the Humanitarian team, encompassing records of violations and abuses across different provinces.
 
 **Problem Statement:**
@@ -118,52 +118,38 @@ _**Data Collection:**
 
 Tools: Power BI (DAX, Power query), Power Automation, Microsoft Excel, SharePoint
 
-## Project 4
-# Social Media Insights-Dashboard
-This Power BI dashboard provides a detailed analysis of social media performance, utilizing data collected from various platforms such as LinkedIn, Facebook, and Twitter.
+This Power BI dashboard provides a detailed analysis of social media performance, utilizing data collected from LinkedIn, Facebook, and Twitter.
 
-Data Collection
-Data collection is achieved using Power Query, a powerful data connectivity and preparation tool within Power BI.
+Methodology
 
-LinkedIn Data Collection: Utilizes the LinkedIn connector in Power BI to extract data on follower growth, post reach, and engagement.
+**Data Collection**
+Data collection is achieved using a combination of Power Query, M Query, and Power Automate:
 
-Facebook Data Collection: Uses the Facebook Graph API via Power Query to retrieve metrics like page likes, post reach, and engagement.
+**LinkedIn Data Collection:** Utilizes the LinkedIn connector in Power BI along with Power Query for data transformation.
 
-Twitter Data Collection: Leverages the Twitter API through Power Query to fetch data on follower count, tweet impressions, and top hashtags.
+**Facebook Data Collection:** Employs the Facebook Graph API via Power Query and M Query for extracting and shaping data.
 
-Tools
-The project utilizes the following tools:
+**Twitter Data Collection:** Leverages the Twitter API with Power Query and M Query for efficient data retrieval and transformation.
 
-Power BI Desktop: The primary tool for designing and creating the dashboard.
-
-Power Query: Used for data collection and transformation, ensuring data is in the desired format.
-
-DAX (Data Analysis Expressions): Applied for creating custom calculations and metrics within Power BI.
-
-M Query: Used in conjunction with Power Query for advanced data manipulation and transformation.
-
-Power Automate: Integrated for automating data collection and refreshing processes, ensuring real-time insights.
 
 Tools
+
 The project utilizes the following tools:
 
-Power BI Desktop: The primary tool for designing and creating the dashboard.
+**Power BI Desktop:** The primary tool for designing and creating the dashboard.
 
-Power Query: Used for data collection and transformation, ensuring data is in the desired format.
+**Power Query:** Used for data collection and transformation, ensuring data is in the desired format.
 
-DAX (Data Analysis Expressions): Applied for creating custom calculations and metrics within Power BI.
+**DAX (Data Analysis Expressions):** Applied for creating custom calculations and metrics within Power BI.
 
-M Query: Used in conjunction with Power Query for advanced data manipulation and transformation.
+**M Query:** Used in conjunction with Power Query for advanced data manipulation and transformation.
 
-Power Automate: Integrated for automating data collection and refreshing processes, ensuring real-time insights.
+**Power Automate:** Integrated for automating data collection and refreshing processes, ensuring real-time insights.
 
-Problem Statement
+**Problem Statement**
 The goal of this project is to provide a consolidated view of social media analytics to understand engagement, reach, and audience demographics. The dashboard aims to help users make informed decisions about content strategy and audience targeting.
 
-
-![Screenshot 2024-02-29 190151](https://github.com/meenuanil/Portfolio-Website/assets/47709878/c40db68a-2600-4854-939f-cb35e75fbf39)
-
-Key Performance Indicators (KPIs)
+**Key Performance Indicators (KPIs)**
 The following key metrics are tracked on the dashboard:
 
 Engagement Metrics: Total likes, comments, shares, and engagement rate.
@@ -172,12 +158,9 @@ Reach Metrics: Impressions, reach, and click-through rate (CTR).
 
 Audience Metrics: Demographics (age, gender, location), growth rate, and follower retention.
 
-![Screenshot 2024-02-29 190202](https://github.com/meenuanil/Portfolio-Website/assets/47709878/35061d79-5949-4453-bb0b-6bfb912b439c)
-
-
 Tables, Filters, Bookmarks
-Tables: Utilize tables to present detailed data on post-performance, follower demographics, and more.
+**Tables:** Utilize tables to present detailed data on post performance, follower demographics, and more.
 
-Filters: Implement filters powered by M Query to allow users to customize the dashboard based on specific time periods, social media platforms, or other relevant criteria.
+**Filters:** Implement filters powered by M Query to allow users to customize the dashboard based on specific time periods, social media platforms, or other relevant criteria.
 
-Bookmarks: Create bookmarks for saving specific views or settings using Power BI's bookmarking feature.
+**Bookmarks:** Create bookmarks for saving specific views or settings using Power BI's bookmarking feature.
