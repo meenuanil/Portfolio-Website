@@ -172,14 +172,15 @@ Reach Metrics: Impressions, reach, and click-through rate (CTR).
 Audience Metrics: Demographics (age, gender, location), growth rate, and follower retention.
 
 
-![Screenshot 2![Screenshot 2024-02-29 190202](https://github.com/meenuanil/Portfolio-Website/assets/47709878/327be5d1-5e0d-4090-b4fd-19e727fd8b69)
 024-02-29 190151](https://github.com/meenuanil/Portfolio-Website/assets/47709878/a613c213-c73f-4689-92c7-9e18d93350ff)
+
 ![Screenshot 2024-02-29 183742](https://github.com/meenuanil/Portfolio-Website/assets/47709878/2380fc75-2044-4438-841e-025f17b2451d)
 
 Tables, Filters, Bookmarks
 Tables: Utilize tables to present detailed data on post performance, follower demographics, and more.
 
-Filters: Implement filters powered by M Query to allow users to customize the dashboard based on specific time periods, social media platforms, or other relevant criteria.
+Filters: Impl![Screenshot 2024-02-29 190048](https://github.com/meenuanil/Portfolio-Website/assets/47709878/58c5162f-9486-4ed6-931b-19df602022ab)
+ement filters powered by M Query to allow users to customize the dashboard based on specific time periods, social media platforms, or other relevant criteria.
 
 Bookmarks: Create bookmarks for saving specific views or settings using Power BI's bookmarking feature.
 
