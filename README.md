@@ -41,17 +41,18 @@ The data preparation phase involved handling missing values, eliminating duplica
 ![Screenshot 2024-02-28 172052](https://github.com/meenuanil/Portfolio-Website/assets/47709878/edecddb0-4c0b-4873-bd91-85de6f106863)
 
 
-Methodology
-•	Data Collection Getting data from Kaggle.
-•	Data Cleaning and Preparation Removing irrelevant and restructuring the dataset for easy analysis.
-•	Exploratory Data Analysis Exploring and analyzing the cleaned data.
-•	Visualization and Reporting visually presenting data in the form of charts and graphs.
-•	Insights presenting observations from the analysis.
+**Methodology**
+- *Data Collection*: Getting data from Kaggle.
+- *Data Cleaning and Preparation*: Removing irrelevant and restructuring the dataset for easy analysis.
+- *Exploratory Data Analysis*: Exploring and analyzing the cleaned data.
+- *Visualization and Reporting*: Visually presenting data in the form of charts and graphs.
+- *Insights*: Presenting observations from the analysis.
 
-Analysis and Visualization:
-•	What were the total sales for the company?
-•	Which market generated the most sales on average?
-•	What were the profits by segment? Which segment has the most profit?
+**Analysis and Visualization**
+- *Total Sales*: What were the total sales for the company?
+- *Top Performing Market*: Which market generated the most sales on average?
+- *Profit by Segment*: What were the profits by segment? Identify the segment with the highest profit.
+
 
 Tools:
 Kaggle, Power BI(DAX), Microsoft Excel
