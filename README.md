@@ -31,22 +31,17 @@ Let's turn data into insights together! 🚀
 
 This Power BI project provides comprehensive insights into the sales data of a superstore. The analysis covers various aspects such as sales trends, product performance, customer segmentation, and geographical distribution. The interactive dashboards and visualizations make it easy to understand and derive actionable insights from the data.
 
-Data Collection:
-The dataset acquired from Kaggle, the Sample SuperStore dataset formed the foundation of this analysis. It encompassed transactional data on product sales, customer details, and geographical information, providing a rich source for uncovering insights.
-
-Data Preparation/Cleaning:
-The data preparation phase involved handling missing values, eliminating duplicates, rectifying data types, and resolving inconsistencies in columns. This process elevated the dataset's quality, paving the way for a more accurate and insightful analysis of the Sample SuperStore data.
 
 
 ![Screenshot 2024-02-28 172052](https://github.com/meenuanil/Portfolio-Website/assets/47709878/edecddb0-4c0b-4873-bd91-85de6f106863)
 
 
 **Methodology**
-- *Data Collection*: Getting data from Kaggle.
-- *Data Cleaning and Preparation*: Removing irrelevant and restructuring the dataset for easy analysis.
-- *Exploratory Data Analysis*: Exploring and analyzing the cleaned data.
-- *Visualization and Reporting*: Visually presenting data in the form of charts and graphs.
-- *Insights*: Presenting observations from the analysis.
+- **Data Collection:** Getting data from Kaggle.
+- **Data Cleaning and Preparation**: Removing irrelevant and restructuring the dataset for easy analysis.
+- **Exploratory Data Analysis**: Exploring and analyzing the cleaned data.
+- **Visualization and Reporting**: Visually presenting data in the form of charts and graphs.
+- **Insights**: Presenting observations from the analysis.
 
 **Analysis and Visualization**
 - *Total Sales*: What were the total sales for the company?
