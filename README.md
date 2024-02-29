@@ -118,6 +118,8 @@ Kaggle, Power BI(DAX), Microsoft Excel
 
 Tools: Power BI (DAX, Power query), Power Automation, Microsoft Excel, SharePoint
 
+## Project 4
+# Social Media Insights - Dashboard
 This Power BI dashboard provides a detailed analysis of social media performance, utilizing data collected from LinkedIn, Facebook, and Twitter.
 
 Methodology
