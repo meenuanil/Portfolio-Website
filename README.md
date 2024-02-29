@@ -93,7 +93,7 @@ _**Data Collection:**
 - **Visualization Techniques:**
 -  - **Line Graph:**
     - Utilize a line graph to illustrate the trend of civilians killed over time, offering a temporal perspective on the gravity of the situation.
-    - 
+ 
       ![Screenshot 2024-02-29 171934](https://github.com/meenuanil/Portfolio-Website/assets/47709878/50be8a7e-f68e-41c3-bef6-c115d0890e50)
 
   - **Bar Chart:**
@@ -103,19 +103,76 @@ _**Data Collection:**
 
 - **Heat Map:**
     - Deploy a heat map to visualize the intensity of violations across provinces, highlighting areas of higher and lower occurrences.
-    - 
+   
  ![Screenshot 2024-02-29 171836](https://github.com/meenuanil/Portfolio-Website/assets/47709878/d7b923b0-353a-405b-87a6-71b48ccf4c2c)
 
   - **Shape Map:**
     - Leverage a shape map to provide a geographic overview, offering insights into the spatial distribution of abuses.
-    - 
+   
 ![Screenshot 2024-02-29 180501](https://github.com/meenuanil/Portfolio-Website/assets/47709878/85024ba7-c280-4d14-a73b-813e331de32e)
 
   - **Pie Chart:**
     - Implement a pie chart to categorize the types of abuses, providing a concise breakdown for easy interpretation.
-    - 
+ 
  ![Screenshot 2024-02-29 180614](https://github.com/meenuanil/Portfolio-Website/assets/47709878/021950b7-2ce8-4c63-a9ea-03b319c09500)
 
 Tools: Power BI (DAX, Power query), Power Automation, Microsoft Excel, SharePoint
 
+## Project 4
+# Social Media Insights-Dashboard
+This Power BI dashboard provides a detailed analysis of social media performance, utilizing data collected from various platforms such as LinkedIn, Facebook, and Twitter.
+
+Data Collection
+Data collection is achieved using Power Query, a powerful data connectivity and preparation tool within Power BI.
+
+LinkedIn Data Collection: Utilizes the LinkedIn connector in Power BI to extract data on follower growth, post reach, and engagement.
+
+Facebook Data Collection: Uses the Facebook Graph API via Power Query to retrieve metrics like page likes, post reach, and engagement.
+
+Twitter Data Collection: Leverages the Twitter API through Power Query to fetch data on follower count, tweet impressions, and top hashtags.
+
+Tools
+The project utilizes the following tools:
+
+Power BI Desktop: The primary tool for designing and creating the dashboard.
+
+Power Query: Used for data collection and transformation, ensuring data is in the desired format.
+
+DAX (Data Analysis Expressions): Applied for creating custom calculations and metrics within Power BI.
+
+M Query: Used in conjunction with Power Query for advanced data manipulation and transformation.
+
+Power Automate: Integrated for automating data collection and refreshing processes, ensuring real-time insights.
+
+Tools
+The project utilizes the following tools:
+
+Power BI Desktop: The primary tool for designing and creating the dashboard.
+
+Power Query: Used for data collection and transformation, ensuring data is in the desired format.
+
+DAX (Data Analysis Expressions): Applied for creating custom calculations and metrics within Power BI.
+
+M Query: Used in conjunction with Power Query for advanced data manipulation and transformation.
+
+Power Automate: Integrated for automating data collection and refreshing processes, ensuring real-time insights.
+
+Problem Statement
+The goal of this project is to provide a consolidated view of social media analytics to understand engagement, reach, and audience demographics. The dashboard aims to help users make informed decisions about content strategy and audience targeting.
+
+Key Performance Indicators (KPIs)
+The following key metrics are tracked on the dashboard:
+
+Engagement Metrics: Total likes, comments, shares, and engagement rate.
+
+Reach Metrics: Impressions, reach, and click-through rate (CTR).
+
+Audience Metrics: Demographics (age, gender, location), growth rate, and follower retention.
+
+Tables, Filters, Bookmarks
+Tables: Utilize tables to present detailed data on post performance, follower demographics, and more.
+
+Filters: Implement filters powered by M Query to allow users to customize the dashboard based on specific time periods, social media platforms, or other relevant criteria.
+
+Bookmarks: Create bookmarks for saving specific views or settings using Power BI's bookmarking feature.
 
