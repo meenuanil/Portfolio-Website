@@ -72,7 +72,7 @@ Data preparation involves cleaning, transforming, and organizing the dataset. Ke
 
 Kaggle, Power BI(DAX), Microsoft Excel
 
-## Project 3
+## <span style="color:blue">🚀 Project 3 </span>
 ## Humanitarian Insights-Dashboard
 **Data Collection:**
 - Source data from the Humanitarian team, encompassing records of violations and abuses across different provinces.
