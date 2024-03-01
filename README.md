@@ -94,6 +94,10 @@ Address the need for a comprehensive visualization tool to understand and analyz
 
   **Data Modeling:**
   - Utilize Power BI's data modelling capabilities to create relationships and calculated measures for in-depth analysis.
+    
+
+    ![Screenshot 2024-03-01 123244](https://github.com/meenuanil/Portfolio-Website/assets/47709878/ec71a71b-780b-49a6-8344-cac8d9af6bd7)
+
 
   **Visualization Techniques:**
  - **Line Graph:**
