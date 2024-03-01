@@ -32,7 +32,7 @@ This Power BI project provides comprehensive insights into the sales data of a s
 ### Tools 
 Kaggle, Power BI(DAX), Microsoft Excel
 
-## Project 2 
+## Project #2 
 # TCS stocks market Insights - Dashboard
 
 This Power BI project delves into the dynamic landscape of TCS stocks, offering a comprehensive analysis and visualization of key market indicators. The project encompasses a diverse range of charts and graphs, including time series charts tracking stock prices over various periods, key performance indicators (KPIs) highlighting crucial financial metrics, and comparative analyses against market benchmarks. Through interactive features and filters, users can explore trends, volatility, and factors influencing TCS stock performance. This project provides investors and stakeholders with actionable insights for informed decision-making in the dynamic world of stock markets. 📊📈
@@ -55,7 +55,7 @@ Data preparation involves cleaning, transforming, and organizing the dataset. Ke
 ### Tools
 Kaggle, Power BI(DAX), Microsoft Excel
 
-## Project 3 
+## Project #3 
 # Humanitarian Insights-Dashboard
 ### Data Collection
 Source data from the Humanitarian team, encompassing records of violations and abuses across different provinces.
@@ -123,7 +123,7 @@ Power BI (DAX, Power query), Power Automation, Microsoft Excel, SharePoint
 
 
 
-## Project 4
+## Project #4
 # Social Media Insights - Dashboard
 This Power BI dashboard provides a detailed analysis of social media performance, utilizing data collected from LinkedIn, Facebook, and Twitter.
 
