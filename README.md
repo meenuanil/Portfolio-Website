@@ -26,7 +26,7 @@ I'm actively seeking new opportunities for collaboration, discussions, and engag
 Let's turn data into insights together! 🚀
 
 
-# Project 1
+## Project 1
 # Super Sales Insights - Dashboard
 
 This Power BI project provides comprehensive insights into the sales data of a superstore. The analysis covers various aspects such as sales trends, product performance, customer segmentation, and geographical distribution. The interactive dashboards and visualizations make it easy to understand and derive actionable insights from the data.
@@ -37,6 +37,7 @@ This Power BI project provides comprehensive insights into the sales data of a s
 
 
 **Methodology**
+
 - **Data Collection:** Getting data from Kaggle.
 - **Data Cleaning and Preparation**: Removing irrelevant and restructuring the dataset for easy analysis.
 - **Exploratory Data Analysis**: Exploring and analyzing the cleaned data.
@@ -44,6 +45,7 @@ This Power BI project provides comprehensive insights into the sales data of a s
 - **Insights**: Presenting observations from the analysis.
 
 **Analysis and Visualization**
+
 - *Total Sales*: What were the total sales for the company?
 - *Top Performing Market*: Which market generated the most sales on average?
 - *Profit by Segment*: What were the profits by segment? Identify the segment with the highest profit.
@@ -52,7 +54,7 @@ This Power BI project provides comprehensive insights into the sales data of a s
 Tools:
 Kaggle, Power BI(DAX), Microsoft Excel
 
-<h1 style="color:blue"> Project 2 </h1>
+## Project 2 
 # TCS stocks market Insights - Dashboard
 
 This Power BI project delves into the dynamic landscape of TCS stocks, offering a comprehensive analysis and visualization of key market indicators. The project encompasses a diverse range of charts and graphs, including time series charts tracking stock prices over various periods, key performance indicators (KPIs) highlighting crucial financial metrics, and comparative analyses against market benchmarks. Through interactive features and filters, users can explore trends, volatility, and factors influencing TCS stock performance. This project provides investors and stakeholders with actionable insights for informed decision-making in the dynamic world of stock markets. 📊📈
@@ -161,8 +163,8 @@ Reach Metrics: Impressions, reach, and click-through rate (CTR).
 Audience Metrics: Demographics (age, gender, location), growth rate, and follower retention.
 
 Tables, Filters, Bookmarks
-**Tables:** Utilize tables to present detailed data on post performance, follower demographics, and more.
+**Tables:** Utilize tables to present detailed data on post-performance, follower demographics, and more.
 
-**Filters:** Implement filters powered by M Query to allow users to customize the dashboard based on specific time periods, social media platforms, or other relevant criteria.
+**Filters:** Implement filters powered by M Query to allow users to customize the dashboard based on specific periods, social media platforms, or other relevant criteria.
 
 **Bookmarks:** Create bookmarks for saving specific views or settings using Power BI's bookmarking feature.
