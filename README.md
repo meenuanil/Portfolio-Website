@@ -162,19 +162,24 @@ The goal of this project is to provide a consolidated view of social media analy
 ## Key Performance Indicators (KPIs)**
 The following key metrics are tracked on the dashboard:
 
+![Screenshot 2024-03-01 122214](https://github.com/meenuanil/Portfolio-Website/assets/47709878/507353d4-a82f-4c59-9758-1cb6c7e7aca8)
+
 - **Engagement Metrics:** Total likes, comments, shares, and engagement rate.
 
 - **Reach Metrics:** Impressions, reach, and click-through rate (CTR).
 
 - **Audience Metrics:** Demographics (age, gender, location), growth rate, and follower retention.
+  
 
 ## Tables, Filters, Bookmarks
+
 - **Tables:** Utilize tables to present detailed data on post-performance, follower demographics, and more.
-- 
+  
+  
+![Screenshot 2024-03-01 121953](https://github.com/meenuanil/Portfolio-Website/assets/47709878/7d8c849a-d32e-4485-9ecc-0875e99c8086)
+
 
 - **Filters:** Implement filters powered by M Query to allow users to customize the dashboard based on specific periods, social media platforms, or other relevant criteria.
-- 
-![Screenshot 2024-02-29 183352](https://github.com/meenuanil/Portfolio-Website/assets/47709878/3700794a-2283-4b8a-bcc1-48b1b085d408)
 
 
 ![Screenshot 2024-03-01 120848](https://github.com/meenuanil/Portfolio-Website/assets/47709878/3c10f8e5-3c93-45db-a7c0-e444c3b9ed91)
@@ -182,10 +187,13 @@ The following key metrics are tracked on the dashboard:
 
 - **Bookmarks:** Create bookmarks for saving specific views or settings using Power BI's bookmarking feature.
   
+  
   ![Screenshot 2024-03-01 120716](https://github.com/meenuanil/Portfolio-Website/assets/47709878/c09d2fea-76fd-48a3-bb2d-f6c5c6ea6c5e)
+  
   
 
 ![Screenshot 2024-03-01 120729](https://github.com/meenuanil/Portfolio-Website/assets/47709878/d2366bb8-178f-451d-bc85-30f2206de50d)
+
 
 
 ### Tools
