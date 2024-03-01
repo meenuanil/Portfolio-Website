@@ -39,19 +39,19 @@ This Power BI project provides comprehensive insights into the sales data of a s
 ### Methodology 
 
 - **Data Collection:** Getting data from Kaggle.
-- **Data Cleaning and Preparation**: Removing irrelevant and restructuring the dataset for easy analysis.
-- **Exploratory Data Analysis**: Exploring and analyzing the cleaned data.
-- **Visualization and Reporting**: Visually presenting data in the form of charts and graphs.
-- **Insights**: Presenting observations from the analysis.
+- **Data Cleaning and Preparation:** Removing irrelevant and restructuring the dataset for easy analysis.
+- **Exploratory Data Analysis:** Exploring and analyzing the cleaned data.
+- **Visualization and Reporting:** Visually presenting data in the form of charts and graphs.
+- **Insights:** Presenting observations from the analysis.
 
-### Analysis and Visualization**
+### Analysis and Visualization
 
 - **Total Sales:** What were the total sales for the company?
 - **Top Performing Market:** Which market generated the most sales on average?
 - **Profit by Segment:** What were the profits by segment? Identify the segment with the highest profit.
 
 
-### Tools: 
+### Tools 
 Kaggle, Power BI(DAX), Microsoft Excel
 
 ## Project 2 
