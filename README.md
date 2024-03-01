@@ -77,7 +77,8 @@ Kaggle, Power BI(DAX), Microsoft Excel
 # Humanitarian Insights-Dashboard
 - **Data Collection:** Source data from the Humanitarian team, encompassing records of violations and abuses across different provinces.
 
-### Problem Statement: Address the need for a comprehensive visualization tool to understand and analyze humanitarian violations for effective decision-making.
+### Problem Statement:
+Address the need for a comprehensive visualization tool to understand and analyze humanitarian violations for effective decision-making.
 
 ### Methodology:
   **Data Preparation and Cleaning:**
@@ -121,7 +122,7 @@ Tools: Power BI (DAX, Power query), Power Automation, Microsoft Excel, SharePoin
 # Social Media Insights - Dashboard
 This Power BI dashboard provides a detailed analysis of social media performance, utilizing data collected from LinkedIn, Facebook, and Twitter.
 
-Methodology
+### Methodology
 
 **Data Collection**
 Data collection is achieved using a combination of Power Query, M Query, and Power Automate:
@@ -133,7 +134,7 @@ Data collection is achieved using a combination of Power Query, M Query, and Pow
 **Twitter Data Collection:** Leverages the Twitter API with Power Query and M Query for efficient data retrieval and transformation.
 
 
-Tools
+### Tools
 
 The project utilizes the following tools:
 
@@ -147,7 +148,7 @@ The project utilizes the following tools:
 
 **Power Automate:** Integrated for automating data collection and refreshing processes, ensuring real-time insights.
 
-**Problem Statement**
+### Problem Statement**
 The goal of this project is to provide a consolidated view of social media analytics to understand engagement, reach, and audience demographics. The dashboard aims to help users make informed decisions about content strategy and audience targeting.
 
 **Key Performance Indicators (KPIs)**
