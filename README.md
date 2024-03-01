@@ -79,13 +79,13 @@ Kaggle, Power BI(DAX), Microsoft Excel
 
 ## Project 3 
 # Humanitarian Insights-Dashboard
-**Data Collection:** 
+### Data Collection
 Source data from the Humanitarian team, encompassing records of violations and abuses across different provinces.
 
-### Problem Statement:
+### Problem Statement
 Address the need for a comprehensive visualization tool to understand and analyze humanitarian violations for effective decision-making.
 
-### Methodology:
+### Methodology
   **Data Preparation and Cleaning:**
   - Thoroughly clean and structure the dataset to ensure accuracy and consistency.
   
@@ -99,10 +99,13 @@ Address the need for a comprehensive visualization tool to understand and analyz
 -  - **Line Graph:**
     - Utilize a line graph to illustrate the trend of civilians killed over time, offering a temporal perspective on the gravity of the situation.
  
+ 
       ![Screenshot 2024-02-29 171934](https://github.com/meenuanil/Portfolio-Website/assets/47709878/50be8a7e-f68e-41c3-bef6-c115d0890e50)
+      
 
   - **Bar Chart:**
     - Employ bar charts to showcase the magnitude of different types of abuses and violations, aiding in identifying the most prevalent issues.
+
 
  ![Screenshot 2024-02-29 171909](https://github.com/meenuanil/Portfolio-Website/assets/47709878/af2818c4-bed1-4fc9-a95b-724a487e9caa)
  
@@ -110,23 +113,27 @@ Address the need for a comprehensive visualization tool to understand and analyz
 - **Heat Map:**
     - Deploy a heat map to visualize the intensity of violations across provinces, highlighting areas of higher and lower occurrences.
    
+   
  ![Screenshot 2024-02-29 171836](https://github.com/meenuanil/Portfolio-Website/assets/47709878/d7b923b0-353a-405b-87a6-71b48ccf4c2c)
  
 
   - **Shape Map:**
     - Leverage a shape map to provide a geographic overview, offering insights into the spatial distribution of abuses.
+      
    
 ![Screenshot 2024-02-29 180501](https://github.com/meenuanil/Portfolio-Website/assets/47709878/85024ba7-c280-4d14-a73b-813e331de32e)
 
 
   - **Pie Chart:**
     - Implement a pie chart to categorize the types of abuses, providing a concise breakdown for easy interpretation.
+      
  
  ![Screenshot 2024-02-29 180614](https://github.com/meenuanil/Portfolio-Website/assets/47709878/021950b7-2ce8-4c63-a9ea-03b319c09500)
  
 
-### Tools: 
+### Tools
 Power BI (DAX, Power query), Power Automation, Microsoft Excel, SharePoint
+
 
 
 ## Project 4
