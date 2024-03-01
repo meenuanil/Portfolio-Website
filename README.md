@@ -46,13 +46,12 @@ This Power BI project provides comprehensive insights into the sales data of a s
 
 **Analysis and Visualization**
 
-- *Total Sales*: What were the total sales for the company?
-- *Top Performing Market*: Which market generated the most sales on average?
-- *Profit by Segment*: What were the profits by segment? Identify the segment with the highest profit.
+- **Total Sales:** What were the total sales for the company?
+- **Top Performing Market:** Which market generated the most sales on average?
+- **Profit by Segment:** What were the profits by segment? Identify the segment with the highest profit.
 
 
-Tools:
-Kaggle, Power BI(DAX), Microsoft Excel
+Tools: Kaggle, Power BI(DAX), Microsoft Excel
 
 ## Project 2 
 # TCS stocks market Insights - Dashboard
@@ -63,7 +62,7 @@ This Power BI project delves into the dynamic landscape of TCS stocks, offering 
 Dataset:
 The dataset for this project comprises historical data on TCS stocks, encompassing daily stock prices, trading volumes, financial indicators, and relevant market data. The dataset is collected from reliable financial sources, ensuring accuracy and completeness for meaningful analysis.
 
-Methods:
+**Methodology:**
 Data preparation involves cleaning, transforming, and organizing the dataset. Key tasks include handling missing values, converting data types, and structuring the data for effective analysis. Time-based aggregations and calculations are applied to unveil trends and patterns. DAX (Data Analysis Expressions) formulas are leveraged for complex calculations, ensuring accurate insights.
 
 
@@ -76,14 +75,12 @@ Kaggle, Power BI(DAX), Microsoft Excel
 
 ## Project 3 
 # Humanitarian Insights-Dashboard
-**Data Collection:**
-- Source data from the Humanitarian team, encompassing records of violations and abuses across different provinces.
+- **Data Collection:** Source data from the Humanitarian team, encompassing records of violations and abuses across different provinces.
 
-**Problem Statement:**
-- Address the need for a comprehensive visualization tool to understand and analyze humanitarian violations for effective decision-making.
+- **Problem Statement:** Address the need for a comprehensive visualization tool to understand and analyze humanitarian violations for effective decision-making.
 
-**Methodology:**
-- **Data Preparation and Cleaning:**
+- **Methodology:**
+  **Data Preparation and Cleaning:**
   - Thoroughly clean and structure the dataset to ensure accuracy and consistency.
   
 - **Exploratory Data Analysis (EDA):**
