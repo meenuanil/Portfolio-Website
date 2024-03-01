@@ -147,35 +147,33 @@ This Power BI dashboard provides a detailed analysis of social media performance
 
 ### Methodology
 
-**Data Collection:** Data collection is achieved using a combination of Power Query, M Query, and Power Automate:
+- **Data Collection:** Data collection is achieved using a combination of Power Query, M Query, and Power Automate:
 
-**LinkedIn Data Collection:** Utilizes the LinkedIn connector in Power BI along with Power Query for data transformation.
+- **LinkedIn Data Collection:** Utilizes the LinkedIn connector in Power BI along with Power Query for data transformation.
 
-**Facebook Data Collection:** Employs the Facebook Graph API via Power Query and M Query for extracting and shaping data.
+- **Facebook Data Collection:** Employs the Facebook Graph API via Power Query and M Query for extracting and shaping data.
 
-**Twitter Data Collection:** Leverages the Twitter API with Power Query and M Query for efficient data retrieval and transformation.
-
-
+- **Twitter Data Collection:** Leverages the Twitter API with Power Query and M Query for efficient data retrieval and transformation.
 
 
 ### Problem Statement**
 The goal of this project is to provide a consolidated view of social media analytics to understand engagement, reach, and audience demographics. The dashboard aims to help users make informed decisions about content strategy and audience targeting.
 
-**Key Performance Indicators (KPIs)**
+## Key Performance Indicators (KPIs)**
 The following key metrics are tracked on the dashboard:
 
-Engagement Metrics: Total likes, comments, shares, and engagement rate.
+- **Engagement Metrics:** Total likes, comments, shares, and engagement rate.
 
-Reach Metrics: Impressions, reach, and click-through rate (CTR).
+- **Reach Metrics:** Impressions, reach, and click-through rate (CTR).
 
-Audience Metrics: Demographics (age, gender, location), growth rate, and follower retention.
+- **Audience Metrics:** Demographics (age, gender, location), growth rate, and follower retention.
 
-Tables, Filters, Bookmarks
-**Tables:** Utilize tables to present detailed data on post-performance, follower demographics, and more.
+## Tables, Filters, Bookmarks
+- **Tables:** Utilize tables to present detailed data on post-performance, follower demographics, and more.
 
-**Filters:** Implement filters powered by M Query to allow users to customize the dashboard based on specific periods, social media platforms, or other relevant criteria.
+- **Filters:** Implement filters powered by M Query to allow users to customize the dashboard based on specific periods, social media platforms, or other relevant criteria.
 
-**Bookmarks:** Create bookmarks for saving specific views or settings using Power BI's bookmarking feature.
+- **Bookmarks:** Create bookmarks for saving specific views or settings using Power BI's bookmarking feature.
 
 ### Tools
 
