@@ -36,7 +36,7 @@ This Power BI project provides comprehensive insights into the sales data of a s
 ![Screenshot 2024-02-28 172052](https://github.com/meenuanil/Portfolio-Website/assets/47709878/edecddb0-4c0b-4873-bd91-85de6f106863)
 
 
-**Methodology**
+### Methodology 
 
 - **Data Collection:** Getting data from Kaggle.
 - **Data Cleaning and Preparation**: Removing irrelevant and restructuring the dataset for easy analysis.
@@ -44,7 +44,7 @@ This Power BI project provides comprehensive insights into the sales data of a s
 - **Visualization and Reporting**: Visually presenting data in the form of charts and graphs.
 - **Insights**: Presenting observations from the analysis.
 
-**Analysis and Visualization**
+### Analysis and Visualization**
 
 - **Total Sales:** What were the total sales for the company?
 - **Top Performing Market:** Which market generated the most sales on average?
@@ -59,10 +59,10 @@ Tools: Kaggle, Power BI(DAX), Microsoft Excel
 This Power BI project delves into the dynamic landscape of TCS stocks, offering a comprehensive analysis and visualization of key market indicators. The project encompasses a diverse range of charts and graphs, including time series charts tracking stock prices over various periods, key performance indicators (KPIs) highlighting crucial financial metrics, and comparative analyses against market benchmarks. Through interactive features and filters, users can explore trends, volatility, and factors influencing TCS stock performance. This project provides investors and stakeholders with actionable insights for informed decision-making in the dynamic world of stock markets. 📊📈
 
 
-Dataset:
+### Dataset:
 The dataset for this project comprises historical data on TCS stocks, encompassing daily stock prices, trading volumes, financial indicators, and relevant market data. The dataset is collected from reliable financial sources, ensuring accuracy and completeness for meaningful analysis.
 
-**Methodology:**
+### Methodology
 Data preparation involves cleaning, transforming, and organizing the dataset. Key tasks include handling missing values, converting data types, and structuring the data for effective analysis. Time-based aggregations and calculations are applied to unveil trends and patterns. DAX (Data Analysis Expressions) formulas are leveraged for complex calculations, ensuring accurate insights.
 
 
@@ -77,9 +77,9 @@ Kaggle, Power BI(DAX), Microsoft Excel
 # Humanitarian Insights-Dashboard
 - **Data Collection:** Source data from the Humanitarian team, encompassing records of violations and abuses across different provinces.
 
-- **Problem Statement:** Address the need for a comprehensive visualization tool to understand and analyze humanitarian violations for effective decision-making.
+### Problem Statement: Address the need for a comprehensive visualization tool to understand and analyze humanitarian violations for effective decision-making.
 
-- **Methodology:**
+### Methodology:
   **Data Preparation and Cleaning:**
   - Thoroughly clean and structure the dataset to ensure accuracy and consistency.
   
