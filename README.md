@@ -159,7 +159,7 @@ This Power BI dashboard provides a detailed analysis of social media performance
 ### Problem Statement
 The goal of this project is to provide a consolidated view of social media analytics to understand engagement, reach, and audience demographics. The dashboard aims to help users make informed decisions about content strategy and audience targeting.
 
-## Key Performance Indicators (KPIs)**
+## Key Performance Indicators (KPIs)
 The following key metrics are tracked on the dashboard:
 
 ![Screenshot 2024-03-01 122214](https://github.com/meenuanil/Portfolio-Website/assets/47709878/507353d4-a82f-4c59-9758-1cb6c7e7aca8)
