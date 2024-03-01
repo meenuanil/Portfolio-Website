@@ -181,12 +181,12 @@ Tables, Filters, Bookmarks
 
 The project utilizes the following tools:
 
-**Power BI Desktop:** The primary tool for designing and creating the dashboard.
+- **Power BI Desktop:** The primary tool for designing and creating the dashboard.
 
-**Power Query:** Used for data collection and transformation, ensuring data is in the desired format.
+- **Power Query:** Used for data collection and transformation, ensuring data is in the desired format.
 
-**DAX (Data Analysis Expressions):** Applied for creating custom calculations and metrics within Power BI.
+- **DAX (Data Analysis Expressions):** Applied for creating custom calculations and metrics within Power BI.
 
-**M Query:** Used in conjunction with Power Query for advanced data manipulation and transformation.
+- **M Query:** Used in conjunction with Power Query for advanced data manipulation and transformation.
 
-**Power Automate:** Integrated for automating data collection and refreshing processes, ensuring real-time insights.
+- **Power Automate:** Integrated for automating data collection and refreshing processes, ensuring real-time insights.
