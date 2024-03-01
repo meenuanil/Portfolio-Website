@@ -74,7 +74,7 @@ Data preparation involves cleaning, transforming, and organizing the dataset. Ke
 ![Screenshot 2024-02-29 160458](https://github.com/meenuanil/Portfolio-Website/assets/47709878/0d572cd1-5ab3-4349-9540-e2ac653686fa)
 
 
-### Tools: 
+### Tools
 Kaggle, Power BI(DAX), Microsoft Excel
 
 ## Project 3 
@@ -89,18 +89,19 @@ Address the need for a comprehensive visualization tool to understand and analyz
   **Data Preparation and Cleaning:**
   - Thoroughly clean and structure the dataset to ensure accuracy and consistency.
   
-- **Exploratory Data Analysis (EDA):**
+  **Exploratory Data Analysis (EDA):**
   - Dive into the dataset to explore patterns, trends, and relationships among different types of violations.
 
-- **Data Modeling:**
+  **Data Modeling:**
   - Utilize Power BI's data modelling capabilities to create relationships and calculated measures for in-depth analysis.
 
-- **Visualization Techniques:**
--  - **Line Graph:**
+  **Visualization Techniques:**
+ - **Line Graph:**
     - Utilize a line graph to illustrate the trend of civilians killed over time, offering a temporal perspective on the gravity of the situation.
  
  
       ![Screenshot 2024-02-29 171934](https://github.com/meenuanil/Portfolio-Website/assets/47709878/50be8a7e-f68e-41c3-bef6-c115d0890e50)
+      
       
 
   - **Bar Chart:**
@@ -120,15 +121,19 @@ Address the need for a comprehensive visualization tool to understand and analyz
   - **Shape Map:**
     - Leverage a shape map to provide a geographic overview, offering insights into the spatial distribution of abuses.
       
+      
    
 ![Screenshot 2024-02-29 180501](https://github.com/meenuanil/Portfolio-Website/assets/47709878/85024ba7-c280-4d14-a73b-813e331de32e)
+
 
 
   - **Pie Chart:**
     - Implement a pie chart to categorize the types of abuses, providing a concise breakdown for easy interpretation.
       
+      
  
  ![Screenshot 2024-02-29 180614](https://github.com/meenuanil/Portfolio-Website/assets/47709878/021950b7-2ce8-4c63-a9ea-03b319c09500)
+ 
  
 
 ### Tools
